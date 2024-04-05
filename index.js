@@ -1,18 +1,18 @@
 let participantes = [
   {
-    nome: "Diego Fernandes",
-    email: "diego@gmail.com",
+    nome: "Faustino Henriques",
+    email: "eadpea2020@gmail.com",
     dataInscricao: new Date(2024, 2, 1, 19, 23),
     dataCheckIn: new Date(2024, 2, 1, 20, 20)
   },
   {
-    nome: "Mayk Brito",
-    email: "mayk@gmail.com",
+    nome: "Paulo Miguel",
+    email: "Quipac@gmail.com",
     dataInscricao: new Date(2024, 2, 23, 19, 23),
     dataCheckIn: null
   },
   {
-    nome: "Ana Souza",
+    nome: "Adriandojoao@gmail.com",
     email: "ana@gmail.com",
     dataInscricao: new Date(2024, 0, 3, 19, 23),
     dataCheckIn: new Date(2024, 0, 4, 20, 20)
