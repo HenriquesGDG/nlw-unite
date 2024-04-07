@@ -1,3 +1,9 @@
+<!doctype html>
+<body>
+<head>
+
+</haed>
+
 <p align="center">
   <img alt="Logo NLW Expert - Rocketseat" src="https://github.com/HenriquesGDG/nlw-unite-html-css-js/blob/main/.github/logo.png" width="200px" />
 </p>
@@ -34,3 +40,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Projeto
 
 Nesse projeto iremos desenvolver a versão simplificada de um sistema de check-in para eventos presenciais.
+
+</body>
+</html>
