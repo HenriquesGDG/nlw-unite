@@ -42,10 +42,10 @@ let participantes = [
     dataCheckIn: new Date(2023, 8, 8, 20, 20)
   },
   {
-    nome: "Lucas Sousa",
-    email: "lucas@gmail.com",
-    dataInscricao: new Date(2023, 7, 8, 19, 23),
-    dataCheckIn: new Date(2023, 7, 9, 20, 20)
+    nome: "Bamba",
+    email: "Bamba@gmail.com",
+    dataInscricao: new Date(2024, 7, 8, 19, 23),
+    dataCheckIn: new Date(2023, 7, 10, 20, 20)
   },
   {
     nome: "Paula Costa",
