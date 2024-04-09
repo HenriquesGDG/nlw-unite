@@ -62,6 +62,7 @@ let participantes = [
 ];
 
 const criarNovoParticipante = (participante) => {
+  
   const dataInscricao = dayjs(Date.now())
   .to(participante.dataInscricao)
 
@@ -141,6 +142,7 @@ const adicionarParticipante = (event) => {
 }
 
 const fazerCheckIn = (event) => {
+  const 
   // confirmar se realmente quer o check-in
   const mensagemConfirmacao = 'Tem certeza que deseja fazer o check-in?' 
 

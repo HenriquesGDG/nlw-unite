@@ -33,9 +33,9 @@ Aplicação desenvolvida no NLW Unite da Rocketseat na trilha HTML+CSS+JS.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
-- JavaScript
+ HTML
+- 🦾CSS
+-🦾JavaScript
 
 ## Projeto
 
