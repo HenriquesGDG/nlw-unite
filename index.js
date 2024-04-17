@@ -6,7 +6,7 @@ let participantes = [
     dataCheckIn: new Date(2024, 2, 1, 20, 20)
   },
   {
-    nome: "Paulo Miguel",
+    nome: "Paualo Miguel",
     email: "Quipac@gmail.com",
     dataInscricao: new Date(2024, 2, 23, 19, 23),
     dataCheckIn: null
