@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  border-style: none ;
+  border: 0px ;
 }
 
 :root {
@@ -156,9 +156,18 @@ tbody td button:hover {
 }
 ::-webkit-scrollbar-thumb{
   background-color:#373e58;
+  border-radius:  2px;
 
 
 }
+::-webkit-scrollbar-thumb:hover{
+ transition: all 0s;
+  background-color:#ffffff;
+  border-radius:  2px;
+
+
+}
+
 
 address{
   display: flex;

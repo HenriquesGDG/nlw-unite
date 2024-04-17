@@ -1,13 +1,13 @@
 let participantes = [
   {
-    nome: "Faustino Henrique",
+    nome: "Faustino Henriques",
     email: "eadpea2020@gmail.com",
     dataInscricao: new Date(2024, 2, 1, 19, 23),
     dataCheckIn: new Date(2024, 2, 1, 20, 20)
   },
   {
-    nome: "Paulo Miguel",
-    email: "Quipaca@gmail.com",
+    nome: "Paualo Miguel",
+    email: "Quipac@gmail.com",
     dataInscricao: new Date(2024, 2, 23, 19, 23),
     dataCheckIn: null
   },
@@ -42,10 +42,10 @@ let participantes = [
     dataCheckIn: new Date(2023, 8, 8, 20, 20)
   },
   {
-    nome: "Bamba",
-    email: "Bamba@gmail.com",
-    dataInscricao: new Date(2024, 7, 8, 19, 23),
-    dataCheckIn: new Date(2023, 7, 10, 20, 20)
+    nome: "Lucas Sousa",
+    email: "lucas@gmail.com",
+    dataInscricao: new Date(2023, 7, 8, 19, 23),
+    dataCheckIn: new Date(2023, 7, 9, 20, 20)
   },
   {
     nome: "Paula Costa",
@@ -62,7 +62,6 @@ let participantes = [
 ];
 
 const criarNovoParticipante = (participante) => {
-  
   const dataInscricao = dayjs(Date.now())
   .to(participante.dataInscricao)
 
@@ -142,7 +141,6 @@ const adicionarParticipante = (event) => {
 }
 
 const fazerCheckIn = (event) => {
-  const 
   // confirmar se realmente quer o check-in
   const mensagemConfirmacao = 'Tem certeza que deseja fazer o check-in?' 
 
